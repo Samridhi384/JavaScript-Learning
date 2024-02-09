@@ -1,0 +1,15 @@
+No variable can start with capital letter
+PI keyword is allowed as it is stored in math library
+
+There are two types of type conversion in JavaScript.
+
+Implicit Conversion - automatic type conversion(type coercion)
+Explicit Conversion - manual type conversion(type conversion)
+
+// 5 falsy values: 0, '', undefined, null, NaN and all other are truthy value
+
+//consider === has to be considered in default to avoid bugs
+
+ternary operator is used in place of if else statements when we need only 1 condition to execute for making it 1 line code.
+
+still if else is required in many scenarios
